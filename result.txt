@@ -1,0 +1,18 @@
+Base:
+-rw-r--r--  1 donblas  staff  21504
+
+One Member:
+-rw-r--r--  1 donblas  staff  22016 Oct 11 14:31 bin/Release/net6.0/attr_size.dll
+
+512 bytes / 100 = 5 bytes per attributes
+
+Two Member:
+-rw-r--r--  1 donblas  staff  23040 Oct 11 14:31 bin/Release/net6.0/attr_size.dll
+
+1024 / 100 / 2 = 5 bytes
+Same 5 bytes per 
+
+Two on Class:
+-rw-r--r--  1 donblas  staff  23040 Oct 11 14:31 bin/Release/net6.0/attr_size.dll
+
+Same

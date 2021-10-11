@@ -1,0 +1,8 @@
+[SupportedOSPlatform("ios1.0")]
+[SupportedOSPlatform("macos1.0")]
+public class TEMPLATE
+{
+	public void Foo () { Console.WriteLine ("TEMPLATE - Foo"); }
+	public void Bar () { Console.WriteLine ("TEMPLATE - Bar"); }
+	public void Buzz () { Console.WriteLine ("TEMPLATE - Bar"); }
+}
